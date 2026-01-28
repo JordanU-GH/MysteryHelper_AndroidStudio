@@ -7,9 +7,6 @@ import android.widget.TextView;
 
 import com.example.mysteryhelper.databinding.ActivityMainBinding;
 
-import java.util.ArrayList;
-
-
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
     // String array member variable for suggestions
